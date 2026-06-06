@@ -1,4 +1,4 @@
-﻿Fecha,NÃºmero ID,Sucursal,Producto,Monto USD,Vendedor,Estado App,Fecha Registro en la App,estado_mora,Dias_hasta_app,Tiene_mora
+Fecha,Número ID,Sucursal,Producto,Monto USD,Vendedor,Estado App,Fecha Registro en la App,estado_mora,Dias_hasta_app,Tiene_mora
 2025-05-23,1,Durazno,Premier,0.0,Sin vendedor,Registrado,2025-05-24,Cobrado,1.0,False
 2025-05-14,2,Canelones,Préstamo Consumo,672.0,C2,No Registrado,,Cobrado,,False
 2025-10-10,3,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
@@ -549,3 +549,4 @@
 2025-05-12,548,Artigas,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-18,Cobrado,6.0,False
 2025-10-24,549,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
 2025-09-02,550,Rivera,Premier,0.0,Sin vendedor,Registrado,2025-09-09,Cobrado,7.0,False
+
