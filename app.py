@@ -126,13 +126,15 @@ st.markdown("---")
 # Estadísticas descriptivas
 # ─────────────────────────────────────────
 with st.expander("📋 Estadísticas descriptivas completas"):
-    num_cols = df.select_dtypes(include="number").columns.tolist()
+    cols_excluir = ["Número ID", "Tiene_mora"]
+    num_cols = [c for c in df.select_dtypes(include="number").columns.tolist() if c not in cols_excluir]
     stats = df[num_cols].describe().T
     stats["Rango"] = stats["max"] - stats["min"]
     stats.rename(columns={
         "mean": "Media", "50%": "Mediana", "std": "Desv. Est.",
         "25%": "Q1", "75%": "Q3", "min": "Mín", "max": "Máx", "count": "N"
     }, inplace=True)
+    stats["N"] = len(df)
     cols_show = [c for c in ["N", "Media", "Mediana", "Desv. Est.", "Q1", "Q3", "Mín", "Máx", "Rango"] if c in stats.columns]
     st.dataframe(stats[cols_show].style.format("{:.2f}"), use_container_width=True)
 
