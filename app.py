@@ -126,17 +126,49 @@ st.markdown("---")
 # Estadísticas descriptivas
 # ─────────────────────────────────────────
 with st.expander("📋 Estadísticas descriptivas completas"):
-    cols_excluir = ["Número ID", "Tiene_mora"]
-    num_cols = [c for c in df.select_dtypes(include="number").columns.tolist() if c not in cols_excluir]
-    stats = df[num_cols].describe().T
-    stats["Rango"] = stats["max"] - stats["min"]
-    stats.rename(columns={
-        "mean": "Media", "50%": "Mediana", "std": "Desv. Est.",
-        "25%": "Q1", "75%": "Q3", "min": "Mín", "max": "Máx", "count": "N"
-    }, inplace=True)
-    stats["N"] = len(df)
-    cols_show = [c for c in ["N", "Media", "Mediana", "Desv. Est.", "Q1", "Q3", "Mín", "Máx", "Rango"] if c in stats.columns]
-    st.dataframe(stats[cols_show].style.format("{:.2f}"), use_container_width=True)
+    st.caption("ℹ️ Monto USD excluye registros con valor $0 (productos sin monto asignado: Cuenta Sueldo, Tarjeta de Crédito, Premier). Días hasta App considera solo clientes registrados en la app.")
+
+    # Monto USD: solo registros con monto real (préstamos)
+    monto_real = df[df["Monto USD"] > 0]["Monto USD"]
+    # Dias_hasta_app: solo clientes registrados en la app
+    dias_real = df["Dias_hasta_app"].dropna()
+
+    import numpy as np
+    resumen = {}
+
+    if len(monto_real) > 0:
+        resumen["Monto USD (préstamos)"] = {
+            "N": len(monto_real),
+            "Media": monto_real.mean(),
+            "Mediana": monto_real.median(),
+            "Desv. Est.": monto_real.std(),
+            "Q1": monto_real.quantile(0.25),
+            "Q3": monto_real.quantile(0.75),
+            "Mín": monto_real.min(),
+            "Máx": monto_real.max(),
+            "Rango": monto_real.max() - monto_real.min(),
+        }
+
+    if len(dias_real) > 0:
+        resumen["Días hasta App"] = {
+            "N": len(dias_real),
+            "Media": dias_real.mean(),
+            "Mediana": dias_real.median(),
+            "Desv. Est.": dias_real.std(),
+            "Q1": dias_real.quantile(0.25),
+            "Q3": dias_real.quantile(0.75),
+            "Mín": dias_real.min(),
+            "Máx": dias_real.max(),
+            "Rango": dias_real.max() - dias_real.min(),
+        }
+
+    if resumen:
+        import pandas as pd
+        stats_df = pd.DataFrame(resumen).T
+        cols_show = ["N", "Media", "Mediana", "Desv. Est.", "Q1", "Q3", "Mín", "Máx", "Rango"]
+        st.dataframe(stats_df[cols_show].style.format("{:.2f}"), use_container_width=True)
+    else:
+        st.info("No hay datos suficientes para calcular estadísticas con los filtros actuales.")
 
 st.markdown("---")
 
