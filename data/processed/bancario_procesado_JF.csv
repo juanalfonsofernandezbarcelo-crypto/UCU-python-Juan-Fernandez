@@ -1,0 +1,551 @@
+﻿Fecha,NÃºmero ID,Sucursal,Producto,Monto USD,Vendedor,Estado App,Fecha Registro en la App,estado_mora,Dias_hasta_app,Tiene_mora
+2025-05-23,1,Durazno,Premier,0.0,Sin vendedor,Registrado,2025-05-24,Cobrado,1.0,False
+2025-05-14,2,Canelones,Préstamo Consumo,672.0,C2,No Registrado,,Cobrado,,False
+2025-10-10,3,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-15,4,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-12-21,Cobrado,6.0,False
+2025-12-30,5,Montevideo,Préstamo Automotor,20053.0,M1,Registrado,2025-12-31,Incobrable,1.0,True
+2025-06-04,6,Canelones,Préstamo Consumo,2957.0,C1,Registrado,2025-06-11,Incobrable,7.0,True
+2025-05-13,7,Colonia,Premier,0.0,Sin vendedor,Registrado,2025-05-19,Cobrado,6.0,False
+2025-12-16,8,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-23,Cobrado,7.0,False
+2025-01-24,9,Flores,Premier,0.0,Sin vendedor,Registrado,2025-01-31,Cobrado,7.0,False
+2025-10-30,10,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-21,11,San José,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-27,Cobrado,6.0,False
+2025-05-19,12,Flores,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-27,13,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-11-14,14,Treinta y Tres,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-24,15,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-28,Cobrado,4.0,False
+2025-06-02,16,Montevideo,Préstamo Hipotecario,244058.0,M2,Registrado,2025-06-09,Cobrado,7.0,False
+2025-12-30,17,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-24,18,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-29,Cobrado,5.0,False
+2025-04-09,19,Durazno,Préstamo Consumo,3996.0,D3,No Registrado,,Cobrado,,False
+2025-11-24,20,Río Negro,Préstamo Hipotecario,215753.0,N1,No Registrado,,En Mora,,True
+2025-05-30,21,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-11-07,22,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-17,23,Colonia,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-21,En Mora,4.0,True
+2025-06-06,24,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-06-09,Cobrado,3.0,False
+2025-03-10,25,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-13,26,Salto,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-17,Incobrable,4.0,True
+2025-02-20,27,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-02-25,Cobrado,5.0,False
+2025-06-20,28,Canelones,Préstamo Automotor,9142.0,C1,Registrado,2025-06-26,Cobrado,6.0,False
+2025-07-17,29,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-07-22,Incobrable,5.0,True
+2025-05-08,30,Rivera,Préstamo Automotor,15672.0,R2,Registrado,2025-05-12,Incobrable,4.0,True
+2025-11-17,31,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-22,Cobrado,5.0,False
+2025-10-15,32,Salto,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-20,En Mora,5.0,True
+2025-02-05,33,Rocha,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-29,34,Cerro Largo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-16,35,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-24,36,Tacuarembó,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-29,Cobrado,5.0,False
+2025-10-29,37,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-01,Cobrado,3.0,False
+2025-10-24,38,Montevideo,Préstamo Consumo,885.0,M2,No Registrado,,Cobrado,,False
+2025-01-27,39,Florida,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-29,En Mora,2.0,True
+2025-01-02,40,Montevideo,Préstamo Hipotecario,117483.0,M2,Registrado,2025-01-09,En Mora,7.0,True
+2025-07-14,41,Colonia,Préstamo Consumo,1069.0,O2,Registrado,2025-07-16,Cobrado,2.0,False
+2025-01-03,42,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-06,43,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-18,44,Salto,Préstamo Consumo,4430.0,S1,No Registrado,,Cobrado,,False
+2025-09-03,45,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-31,46,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-03,47,Canelones,Préstamo Hipotecario,56581.0,C1,Registrado,2025-12-05,Incobrable,2.0,True
+2025-07-01,48,Montevideo,Préstamo Consumo,3761.0,M2,No Registrado,,Incobrable,,True
+2025-07-25,49,Cerro Largo,Préstamo Hipotecario,158056.0,E2,Registrado,2025-07-31,Cobrado,6.0,False
+2025-02-11,50,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-02-14,Incobrable,3.0,True
+2025-02-14,51,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-02-15,Cobrado,1.0,False
+2025-01-10,52,San José,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-19,53,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-07,54,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-07-14,Cobrado,7.0,False
+2025-06-11,55,Montevideo,Préstamo Consumo,2346.0,M3,No Registrado,,Cobrado,,False
+2025-12-01,56,San José,Premier,0.0,Sin vendedor,Registrado,2025-12-05,Cobrado,4.0,False
+2025-10-10,57,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-15,Incobrable,5.0,True
+2025-12-05,58,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-12-09,59,Canelones,Préstamo Consumo,1957.0,C3,No Registrado,,Cobrado,,False
+2025-07-29,60,Lavalleja,Premier,0.0,Sin vendedor,Registrado,2025-08-02,En Mora,4.0,True
+2025-11-03,61,Río Negro,Préstamo Consumo,586.0,N1,Registrado,2025-11-10,En Mora,7.0,True
+2025-01-27,62,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-07,63,Canelones,Préstamo Consumo,843.0,C2,No Registrado,,Cobrado,,False
+2025-01-23,64,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-07,65,Montevideo,Préstamo Automotor,15482.0,M2,No Registrado,,Cobrado,,False
+2025-07-16,66,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-11,67,Artigas,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-18,Cobrado,7.0,False
+2025-07-22,68,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-07-23,Cobrado,1.0,False
+2025-02-11,69,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-02-12,Incobrable,1.0,True
+2025-11-10,70,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-12,Cobrado,2.0,False
+2025-04-17,71,Maldonado,Préstamo Consumo,3876.0,A3,No Registrado,,Cobrado,,False
+2025-12-02,72,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-03-07,73,Rocha,Premier,0.0,Sin vendedor,Registrado,2025-03-09,Cobrado,2.0,False
+2025-10-31,74,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-06,Cobrado,6.0,False
+2025-02-18,75,Rivera,Préstamo Hipotecario,72690.0,R2,Registrado,2025-02-21,Cobrado,3.0,False
+2025-12-03,76,Salto,Premier,0.0,Sin vendedor,Registrado,2025-12-04,Cobrado,1.0,False
+2025-05-22,77,Montevideo,Préstamo Consumo,3832.0,M1,No Registrado,,Cobrado,,False
+2025-09-26,78,Colonia,Préstamo Automotor,5786.0,O1,Registrado,2025-09-29,Cobrado,3.0,False
+2025-12-09,79,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-06-04,80,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-06-10,Cobrado,6.0,False
+2025-05-20,81,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-10,82,Soriano,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-11,Cobrado,1.0,False
+2025-11-13,83,Maldonado,Préstamo Consumo,2066.0,A1,No Registrado,,Cobrado,,False
+2025-07-17,84,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-15,85,Florida,Préstamo Consumo,2290.0,L3,Registrado,2025-01-17,Incobrable,2.0,True
+2025-07-23,86,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-28,Cobrado,5.0,False
+2025-05-22,87,Montevideo,Préstamo Consumo,3460.0,M3,No Registrado,,Cobrado,,False
+2025-06-25,88,Salto,Préstamo Hipotecario,149032.0,S1,Registrado,2025-06-30,En Mora,5.0,True
+2025-11-17,89,Salto,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-02-27,90,Colonia,Préstamo Automotor,10958.0,O3,Registrado,2025-03-03,Incobrable,4.0,True
+2025-09-15,91,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-09-19,Incobrable,4.0,True
+2025-07-07,92,Salto,Préstamo Automotor,20503.0,S2,Registrado,2025-07-14,Cobrado,7.0,False
+2025-08-05,93,Canelones,Préstamo Automotor,8556.0,C3,No Registrado,,En Mora,,True
+2025-08-06,94,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-11,Cobrado,5.0,False
+2025-05-16,95,Cerro Largo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-05-23,Cobrado,7.0,False
+2025-12-03,96,Treinta y Tres,Préstamo Consumo,3416.0,Y1,Registrado,2025-12-10,Cobrado,7.0,False
+2025-07-29,97,Montevideo,Préstamo Hipotecario,106803.0,M1,Registrado,2025-08-02,Cobrado,4.0,False
+2025-03-17,98,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-15,99,Río Negro,Préstamo Automotor,5864.0,N3,Registrado,2025-08-20,Cobrado,5.0,False
+2025-06-20,100,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-10,101,Montevideo,Préstamo Consumo,810.0,M3,No Registrado,,Cobrado,,False
+2025-07-15,102,Tacuarembó,Préstamo Hipotecario,42903.0,T1,Registrado,2025-07-21,Cobrado,6.0,False
+2025-11-04,103,Tacuarembó,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-18,104,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-07-21,Cobrado,3.0,False
+2025-09-02,105,Canelones,Préstamo Automotor,17723.0,C2,Registrado,2025-09-03,Cobrado,1.0,False
+2025-04-02,106,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-04-07,Incobrable,5.0,True
+2025-02-14,107,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-02-16,Cobrado,2.0,False
+2025-12-03,108,Canelones,Préstamo Automotor,14340.0,C1,Registrado,2025-12-10,Cobrado,7.0,False
+2025-06-17,109,Treinta y Tres,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-06-23,Cobrado,6.0,False
+2025-04-03,110,Rocha,Préstamo Hipotecario,11913.0,H2,Registrado,2025-04-04,Cobrado,1.0,False
+2025-09-26,111,Lavalleja,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-02-07,112,Maldonado,Préstamo Consumo,1768.0,A2,No Registrado,,Cobrado,,False
+2025-01-14,113,Río Negro,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-01-19,Cobrado,5.0,False
+2025-11-05,114,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-26,115,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-12,116,Colonia,Préstamo Consumo,2100.0,O1,Registrado,2025-08-19,Cobrado,7.0,False
+2025-10-17,117,Canelones,Préstamo Hipotecario,76102.0,C1,Registrado,2025-10-21,Incobrable,4.0,True
+2025-09-19,118,Canelones,Préstamo Consumo,2307.0,C2,No Registrado,,Cobrado,,False
+2025-01-20,119,Florida,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-21,Cobrado,1.0,False
+2025-10-15,120,Canelones,Préstamo Automotor,9818.0,C1,No Registrado,,En Mora,,True
+2025-04-04,121,Durazno,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-17,122,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-22,En Mora,5.0,True
+2025-08-26,123,Montevideo,Préstamo Consumo,1588.0,M2,Registrado,2025-09-02,En Mora,7.0,True
+2025-07-03,124,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-29,125,Montevideo,Préstamo Automotor,25343.0,M1,Registrado,2025-02-05,Incobrable,7.0,True
+2025-02-28,126,Florida,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-03-05,En Mora,5.0,True
+2025-05-09,127,Río Negro,Préstamo Consumo,4214.0,N2,No Registrado,,En Mora,,True
+2025-05-19,128,Tacuarembó,Premier,0.0,Sin vendedor,Registrado,2025-05-25,Cobrado,6.0,False
+2025-05-30,129,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-02,Cobrado,3.0,False
+2025-01-21,130,Durazno,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-05,131,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-04,132,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-06-06,Cobrado,2.0,False
+2025-03-21,133,Colonia,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-23,Cobrado,2.0,False
+2025-05-20,134,Salto,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-23,En Mora,3.0,True
+2025-06-27,135,Tacuarembó,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-04,Cobrado,7.0,False
+2025-12-22,136,Canelones,Préstamo Automotor,2550.0,C3,Registrado,2025-12-29,Cobrado,7.0,False
+2025-11-18,137,Tacuarembó,Préstamo Automotor,3510.0,T2,Registrado,2025-11-22,Incobrable,4.0,True
+2025-01-27,138,Canelones,Préstamo Consumo,4178.0,C1,No Registrado,,En Mora,,True
+2025-09-15,139,Montevideo,Préstamo Consumo,1046.0,M1,No Registrado,,Cobrado,,False
+2025-06-09,140,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-02,141,Rocha,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-08,Cobrado,6.0,False
+2025-11-20,142,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-07,143,Cerro Largo,Premier,0.0,Sin vendedor,Registrado,2025-05-14,Cobrado,7.0,False
+2025-01-30,144,Lavalleja,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-23,145,Salto,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-04-28,Incobrable,5.0,True
+2025-07-09,146,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-24,147,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-04-21,148,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-04,149,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-27,150,Montevideo,Préstamo Automotor,13020.0,M1,Registrado,2025-06-02,Cobrado,6.0,False
+2025-09-22,151,Lavalleja,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-27,Cobrado,5.0,False
+2025-10-07,152,Montevideo,Préstamo Consumo,4356.0,M2,No Registrado,,Cobrado,,False
+2025-05-20,153,Canelones,Préstamo Hipotecario,204110.0,C1,Registrado,2025-05-24,En Mora,4.0,True
+2025-12-31,154,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-24,155,Colonia,Préstamo Consumo,3485.0,O3,No Registrado,,Cobrado,,False
+2025-09-04,156,Canelones,Préstamo Consumo,1074.0,C2,No Registrado,,Cobrado,,False
+2025-08-04,157,Montevideo,Préstamo Consumo,857.0,M1,No Registrado,,Cobrado,,False
+2025-09-03,158,Florida,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-07,Cobrado,4.0,False
+2025-03-20,159,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-11,160,Canelones,Préstamo Hipotecario,192779.0,C2,Registrado,2025-07-13,En Mora,2.0,True
+2025-11-07,161,Treinta y Tres,Premier,0.0,Sin vendedor,Registrado,2025-11-10,Cobrado,3.0,False
+2025-04-29,162,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-30,163,Salto,Préstamo Consumo,4117.0,S3,No Registrado,,Cobrado,,False
+2025-12-11,164,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-16,Cobrado,5.0,False
+2025-08-11,165,Flores,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-16,166,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-04-20,Cobrado,4.0,False
+2025-05-06,167,Lavalleja,Préstamo Consumo,1585.0,V1,No Registrado,,Cobrado,,False
+2025-09-25,168,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-01-01,169,Salto,Préstamo Hipotecario,252570.0,S1,Registrado,2025-01-04,En Mora,3.0,True
+2025-01-13,170,Canelones,Préstamo Consumo,3274.0,C2,Registrado,2025-01-20,En Mora,7.0,True
+2025-03-18,171,Florida,Préstamo Consumo,1328.0,L1,No Registrado,,Cobrado,,False
+2025-04-23,172,Rocha,Préstamo Consumo,1961.0,H1,No Registrado,,Cobrado,,False
+2025-11-04,173,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-15,174,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-08,175,Río Negro,Préstamo Consumo,2303.0,N3,Registrado,2025-07-15,Cobrado,7.0,False
+2025-10-23,176,Canelones,Premier,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-11-24,177,Tacuarembó,Préstamo Consumo,4266.0,T3,No Registrado,,Cobrado,,False
+2025-12-22,178,Rocha,Préstamo Automotor,13683.0,H3,Registrado,2025-12-26,Cobrado,4.0,False
+2025-12-24,179,Florida,Préstamo Consumo,951.0,L1,No Registrado,,Cobrado,,False
+2025-01-27,180,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-02-01,Cobrado,5.0,False
+2025-07-08,181,Cerro Largo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-14,182,Montevideo,Préstamo Consumo,2479.0,M3,Registrado,2025-07-20,Cobrado,6.0,False
+2025-10-17,183,Montevideo,Préstamo Consumo,1912.0,M2,No Registrado,,Cobrado,,False
+2025-09-04,184,Tacuarembó,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-09-05,Cobrado,1.0,False
+2025-07-10,185,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-17,Cobrado,7.0,False
+2025-10-07,186,Canelones,Préstamo Automotor,12423.0,C2,Registrado,2025-10-08,Cobrado,1.0,False
+2025-03-19,187,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-26,188,Durazno,Préstamo Automotor,13688.0,D2,Registrado,2025-07-02,Cobrado,6.0,False
+2025-10-20,189,Rivera,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-25,190,Florida,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-02-24,191,Maldonado,Préstamo Consumo,3171.0,A2,No Registrado,,Cobrado,,False
+2025-01-07,192,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-01-09,En Mora,2.0,True
+2025-04-08,193,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-04-14,194,Canelones,Préstamo Automotor,27836.0,C3,Registrado,2025-04-19,Cobrado,5.0,False
+2025-02-13,195,Cerro Largo,Préstamo Automotor,3826.0,E1,Registrado,2025-02-17,Cobrado,4.0,False
+2025-01-27,196,Rocha,Préstamo Consumo,586.0,H3,No Registrado,,Cobrado,,False
+2025-04-29,197,Rivera,Premier,0.0,Sin vendedor,Registrado,2025-05-02,Cobrado,3.0,False
+2025-06-13,198,Rivera,Préstamo Consumo,1669.0,R2,Registrado,2025-06-20,Cobrado,7.0,False
+2025-09-05,199,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-17,200,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-10-20,Cobrado,3.0,False
+2025-03-28,201,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-04-03,Cobrado,6.0,False
+2025-05-13,202,Cerro Largo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-03,203,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-22,204,Cerro Largo,Préstamo Consumo,4041.0,E2,Registrado,2025-04-27,Cobrado,5.0,False
+2025-05-08,205,Florida,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-30,206,San José,Préstamo Consumo,3064.0,J3,No Registrado,,Cobrado,,False
+2025-11-26,207,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-01,Cobrado,5.0,False
+2025-07-14,208,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-07-19,Cobrado,5.0,False
+2025-05-06,209,Flores,Premier,0.0,Sin vendedor,Registrado,2025-05-09,En Mora,3.0,True
+2025-09-16,210,Lavalleja,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-09-23,En Mora,7.0,True
+2025-01-03,211,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-05,Cobrado,2.0,False
+2025-02-14,212,Treinta y Tres,Préstamo Hipotecario,63384.0,Y2,Registrado,2025-02-21,Cobrado,7.0,False
+2025-03-20,213,Montevideo,Préstamo Consumo,3899.0,M1,No Registrado,,Cobrado,,False
+2025-06-17,214,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-22,Cobrado,5.0,False
+2025-09-24,215,Artigas,Préstamo Automotor,9763.0,I2,Registrado,2025-09-29,Cobrado,5.0,False
+2025-11-03,216,Colonia,Préstamo Automotor,6526.0,O2,Registrado,2025-11-08,Incobrable,5.0,True
+2025-07-07,217,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-07-11,Cobrado,4.0,False
+2025-07-02,218,Canelones,Préstamo Hipotecario,241193.0,C1,Registrado,2025-07-05,En Mora,3.0,True
+2025-01-24,219,Maldonado,Premier,0.0,Sin vendedor,Registrado,2025-01-25,Cobrado,1.0,False
+2025-05-27,220,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-31,221,Cerro Largo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-10,222,Soriano,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-12,Cobrado,2.0,False
+2025-06-16,223,Montevideo,Préstamo Consumo,4561.0,M1,Registrado,2025-06-20,Cobrado,4.0,False
+2025-01-01,224,Maldonado,Préstamo Automotor,5104.0,A3,Registrado,2025-01-07,Cobrado,6.0,False
+2025-01-30,225,Montevideo,Préstamo Hipotecario,103228.0,M3,Registrado,2025-02-04,Cobrado,5.0,False
+2025-05-01,226,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-27,227,Canelones,Préstamo Automotor,21123.0,C2,Registrado,2025-03-31,Cobrado,4.0,False
+2025-03-14,228,Durazno,Préstamo Consumo,2999.0,D2,No Registrado,,Cobrado,,False
+2025-02-14,229,Paysandú,Préstamo Consumo,4565.0,P3,Registrado,2025-02-21,Cobrado,7.0,False
+2025-11-19,230,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-26,Incobrable,7.0,True
+2025-10-17,231,Paysandú,Préstamo Consumo,3101.0,P2,Registrado,2025-10-22,Cobrado,5.0,False
+2025-06-18,232,Río Negro,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-06-23,En Mora,5.0,True
+2025-05-12,233,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-16,Cobrado,4.0,False
+2025-03-25,234,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-14,235,Salto,Préstamo Consumo,743.0,S3,Registrado,2025-05-16,Cobrado,2.0,False
+2025-02-13,236,Montevideo,Préstamo Consumo,3574.0,M2,No Registrado,,Cobrado,,False
+2025-09-22,237,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-09-26,Cobrado,4.0,False
+2025-01-06,238,Treinta y Tres,Préstamo Hipotecario,118417.0,Y3,Registrado,2025-01-11,Cobrado,5.0,False
+2025-03-26,239,Montevideo,Préstamo Consumo,3854.0,M1,Registrado,2025-03-28,Cobrado,2.0,False
+2025-11-14,240,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-21,Cobrado,7.0,False
+2025-10-15,241,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-07-28,242,Artigas,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-08-18,243,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-20,Cobrado,2.0,False
+2025-06-30,244,San José,Préstamo Consumo,3014.0,J1,Registrado,2025-07-07,Cobrado,7.0,False
+2025-03-10,245,Rivera,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-06-19,246,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-03-26,247,Maldonado,Préstamo Consumo,4243.0,A2,Registrado,2025-03-28,Cobrado,2.0,False
+2025-09-09,248,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-17,249,Tacuarembó,Préstamo Consumo,4384.0,T2,Registrado,2025-12-20,Cobrado,3.0,False
+2025-08-19,250,Montevideo,Préstamo Automotor,7318.0,M3,Registrado,2025-08-24,En Mora,5.0,True
+2025-01-08,251,Montevideo,Préstamo Consumo,1224.0,M3,Registrado,2025-01-13,Cobrado,5.0,False
+2025-06-23,252,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-12,253,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-02-14,Cobrado,2.0,False
+2025-11-27,254,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-01,Cobrado,4.0,False
+2025-07-23,255,Río Negro,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-11-07,256,Canelones,Préstamo Hipotecario,237922.0,C1,Registrado,2025-11-09,Cobrado,2.0,False
+2025-01-23,257,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-08,258,Salto,Préstamo Consumo,2481.0,S3,No Registrado,,Cobrado,,False
+2025-02-19,259,Montevideo,Préstamo Consumo,3418.0,M2,No Registrado,,Incobrable,,True
+2025-07-28,260,Canelones,Préstamo Automotor,4018.0,C2,Registrado,2025-08-03,Cobrado,6.0,False
+2025-11-10,261,Durazno,Préstamo Automotor,25526.0,D3,Registrado,2025-11-11,En Mora,1.0,True
+2025-03-24,262,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-09-11,263,Salto,Préstamo Consumo,4443.0,S1,No Registrado,,Cobrado,,False
+2025-11-18,264,Maldonado,Préstamo Consumo,1771.0,A1,No Registrado,,Cobrado,,False
+2025-11-26,265,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-10,266,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-11-14,267,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-20,Incobrable,6.0,True
+2025-10-24,268,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-10-25,Cobrado,1.0,False
+2025-03-04,269,Treinta y Tres,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-08,270,Durazno,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-14,Cobrado,6.0,False
+2025-12-09,271,Rocha,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-12,En Mora,3.0,True
+2025-05-19,272,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-23,En Mora,4.0,True
+2025-03-06,273,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-08,274,Colonia,Premier,0.0,Sin vendedor,Registrado,2025-01-13,Cobrado,5.0,False
+2025-01-14,275,Tacuarembó,Préstamo Hipotecario,269940.0,T3,Registrado,2025-01-20,Cobrado,6.0,False
+2025-07-24,276,Paysandú,Préstamo Consumo,3621.0,P2,No Registrado,,En Mora,,True
+2025-10-27,277,Canelones,Préstamo Consumo,4641.0,C2,No Registrado,,Cobrado,,False
+2025-09-15,278,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-18,279,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-03-25,Cobrado,7.0,False
+2025-12-25,280,Flores,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-12,281,Maldonado,Premier,0.0,Sin vendedor,Registrado,2025-03-19,Cobrado,7.0,False
+2025-11-12,282,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-10,283,Paysandú,Préstamo Hipotecario,169979.0,P1,Registrado,2025-01-12,Cobrado,2.0,False
+2025-10-29,284,Soriano,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-31,Cobrado,2.0,False
+2025-05-07,285,San José,Préstamo Consumo,4096.0,J2,No Registrado,,En Mora,,True
+2025-10-15,286,Tacuarembó,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-09,287,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-01-14,En Mora,5.0,True
+2025-06-20,288,Tacuarembó,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-04,289,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-02-05,Cobrado,1.0,False
+2025-03-24,290,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-25,En Mora,1.0,True
+2025-05-29,291,Colonia,Préstamo Consumo,3465.0,O2,No Registrado,,Cobrado,,False
+2025-02-27,292,Montevideo,Préstamo Automotor,5614.0,M2,Registrado,2025-02-28,Cobrado,1.0,False
+2025-08-28,293,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-29,Cobrado,1.0,False
+2025-12-29,294,Canelones,Préstamo Consumo,2067.0,C3,Registrado,2026-01-03,Cobrado,5.0,False
+2025-02-14,295,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-02-15,Cobrado,1.0,False
+2025-07-10,296,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-06-25,297,Rocha,Préstamo Consumo,3065.0,H2,Registrado,2025-06-29,Cobrado,4.0,False
+2025-03-12,298,Paysandú,Premier,0.0,Sin vendedor,Registrado,2025-03-16,En Mora,4.0,True
+2025-11-11,299,Colonia,Préstamo Automotor,28640.0,O3,Registrado,2025-11-18,En Mora,7.0,True
+2025-04-23,300,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-29,Cobrado,6.0,False
+2025-07-01,301,Maldonado,Préstamo Automotor,6623.0,A1,Registrado,2025-07-04,En Mora,3.0,True
+2025-04-10,302,Río Negro,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-13,Cobrado,3.0,False
+2025-09-02,303,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-08,Cobrado,6.0,False
+2025-04-25,304,Paysandú,Préstamo Consumo,2415.0,P2,No Registrado,,Cobrado,,False
+2025-09-18,305,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-23,Incobrable,5.0,True
+2025-06-02,306,Montevideo,Préstamo Consumo,3753.0,M2,Registrado,2025-06-08,Cobrado,6.0,False
+2025-08-11,307,Río Negro,Préstamo Consumo,4701.0,N2,Registrado,2025-08-18,En Mora,7.0,True
+2025-08-12,308,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-27,309,Colonia,Préstamo Consumo,2556.0,O1,Registrado,2025-03-28,En Mora,1.0,True
+2025-02-21,310,Treinta y Tres,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-10,311,Flores,Préstamo Consumo,3092.0,F1,No Registrado,,Cobrado,,False
+2025-05-21,312,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-15,313,Canelones,Préstamo Consumo,3798.0,C1,No Registrado,,Cobrado,,False
+2025-05-02,314,Montevideo,Préstamo Consumo,1962.0,M1,No Registrado,,En Mora,,True
+2025-02-14,315,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-02,316,Tacuarembó,Préstamo Automotor,14441.0,T3,Registrado,2025-06-03,En Mora,1.0,True
+2025-11-26,317,Maldonado,Préstamo Automotor,24160.0,A2,Registrado,2025-12-03,En Mora,7.0,True
+2025-09-15,318,Rivera,Préstamo Consumo,3555.0,R3,No Registrado,,En Mora,,True
+2025-08-06,319,Río Negro,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-19,320,Canelones,Préstamo Consumo,2627.0,C1,Registrado,2025-12-25,Cobrado,6.0,False
+2025-10-27,321,Flores,Préstamo Automotor,18376.0,F1,Registrado,2025-10-31,Cobrado,4.0,False
+2025-03-19,322,Lavalleja,Préstamo Consumo,3674.0,V2,Registrado,2025-03-20,Cobrado,1.0,False
+2025-06-19,323,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-06-03,324,Treinta y Tres,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-02,325,Tacuarembó,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-07,326,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-01-07,327,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-14,Cobrado,7.0,False
+2025-12-17,328,Canelones,Préstamo Hipotecario,101506.0,C2,Registrado,2025-12-23,Cobrado,6.0,False
+2025-04-25,329,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-30,En Mora,5.0,True
+2025-10-03,330,Florida,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-10-05,Cobrado,2.0,False
+2025-04-01,331,Cerro Largo,Premier,0.0,Sin vendedor,Registrado,2025-04-05,Incobrable,4.0,True
+2025-03-04,332,Salto,Préstamo Consumo,1196.0,S1,No Registrado,,Cobrado,,False
+2025-10-24,333,Colonia,Préstamo Consumo,3191.0,O3,No Registrado,,Cobrado,,False
+2025-08-01,334,Lavalleja,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-10-27,335,Canelones,Premier,0.0,Sin vendedor,Registrado,2025-11-03,Incobrable,7.0,True
+2025-07-22,336,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-20,337,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-03-25,Cobrado,5.0,False
+2025-10-01,338,Rivera,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-10-07,Cobrado,6.0,False
+2025-01-23,339,Cerro Largo,Préstamo Consumo,4878.0,E2,No Registrado,,Cobrado,,False
+2025-10-20,340,Montevideo,Préstamo Consumo,3338.0,M3,No Registrado,,Cobrado,,False
+2025-05-29,341,Soriano,Préstamo Consumo,2856.0,SO3,Registrado,2025-06-02,En Mora,4.0,True
+2025-04-24,342,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-04-26,Cobrado,2.0,False
+2025-08-28,343,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-09-01,Cobrado,4.0,False
+2025-06-11,344,Montevideo,Préstamo Consumo,4219.0,M2,Registrado,2025-06-14,En Mora,3.0,True
+2025-04-15,345,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-22,Cobrado,7.0,False
+2025-05-21,346,Colonia,Préstamo Consumo,2049.0,O2,No Registrado,,Cobrado,,False
+2025-06-04,347,Río Negro,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-07,Cobrado,3.0,False
+2025-05-05,348,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-10,Cobrado,5.0,False
+2025-04-07,349,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-14,Cobrado,7.0,False
+2025-06-20,350,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-17,351,Durazno,Préstamo Automotor,9496.0,D2,No Registrado,,Cobrado,,False
+2025-08-25,352,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-30,Cobrado,5.0,False
+2025-11-26,353,Rocha,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-22,354,Flores,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-23,Cobrado,1.0,False
+2025-07-09,355,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-07-16,Cobrado,7.0,False
+2025-01-08,356,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-08-11,357,Maldonado,Premier,0.0,Sin vendedor,Registrado,2025-08-13,Cobrado,2.0,False
+2025-04-04,358,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-06-03,359,Colonia,Préstamo Consumo,4704.0,O3,No Registrado,,Incobrable,,True
+2025-08-25,360,Paysandú,Préstamo Consumo,2543.0,P3,No Registrado,,Cobrado,,False
+2025-09-17,361,Artigas,Préstamo Consumo,4286.0,I1,No Registrado,,Cobrado,,False
+2025-10-09,362,Montevideo,Préstamo Consumo,1599.0,M1,No Registrado,,Incobrable,,True
+2025-02-28,363,Río Negro,Préstamo Consumo,1680.0,N3,No Registrado,,Cobrado,,False
+2025-08-07,364,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-09,Incobrable,2.0,True
+2025-04-01,365,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-03-25,366,Artigas,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-18,367,Río Negro,Préstamo Consumo,942.0,N3,No Registrado,,Incobrable,,True
+2025-01-29,368,Paysandú,Premier,0.0,Sin vendedor,Registrado,2025-01-31,Cobrado,2.0,False
+2025-07-09,369,Salto,Préstamo Consumo,3629.0,S1,No Registrado,,Cobrado,,False
+2025-06-27,370,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-11-25,371,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-02,Cobrado,7.0,False
+2025-10-22,372,Cerro Largo,Préstamo Consumo,4948.0,E2,No Registrado,,Cobrado,,False
+2025-09-10,373,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-01,374,Tacuarembó,Premier,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-10,375,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-07-12,Cobrado,2.0,False
+2025-08-27,376,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-23,377,Montevideo,Préstamo Consumo,929.0,M2,No Registrado,,Cobrado,,False
+2025-11-25,378,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-01,Incobrable,6.0,True
+2025-11-17,379,Rocha,Préstamo Consumo,2521.0,H1,No Registrado,,Cobrado,,False
+2025-11-21,380,Florida,Préstamo Consumo,2878.0,L2,No Registrado,,Cobrado,,False
+2025-05-29,381,Cerro Largo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-23,382,Cerro Largo,Préstamo Consumo,3057.0,E2,Registrado,2025-07-30,Cobrado,7.0,False
+2025-10-03,383,Canelones,Premier,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-31,384,Rivera,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-16,385,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-12-04,386,Montevideo,Préstamo Consumo,1027.0,M3,Registrado,2025-12-11,Incobrable,7.0,True
+2025-11-12,387,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-16,Cobrado,4.0,False
+2025-12-17,388,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-10,389,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-13,Cobrado,3.0,False
+2025-10-07,390,Salto,Préstamo Automotor,9710.0,S2,No Registrado,,Cobrado,,False
+2025-02-13,391,Soriano,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-30,392,Florida,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-02-04,393,Río Negro,Préstamo Consumo,3137.0,N1,No Registrado,,Cobrado,,False
+2025-02-10,394,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-02-16,En Mora,6.0,True
+2025-03-17,395,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-18,Cobrado,1.0,False
+2025-08-27,396,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-29,En Mora,2.0,True
+2025-12-09,397,Montevideo,Préstamo Consumo,3962.0,M1,Registrado,2025-12-16,Cobrado,7.0,False
+2025-08-13,398,Salto,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-19,Incobrable,6.0,True
+2025-12-10,399,Canelones,Préstamo Consumo,1804.0,C3,No Registrado,,En Mora,,True
+2025-11-13,400,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-16,Cobrado,3.0,False
+2025-11-11,401,Florida,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-18,Cobrado,7.0,False
+2025-08-22,402,Artigas,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-19,403,Lavalleja,Préstamo Consumo,4494.0,V1,No Registrado,,Cobrado,,False
+2025-08-06,404,Artigas,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-01,405,Colonia,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-04,Cobrado,3.0,False
+2025-08-11,406,Maldonado,Préstamo Consumo,2431.0,A2,No Registrado,,En Mora,,True
+2025-05-07,407,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-13,408,San José,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-12,409,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-05-13,Incobrable,1.0,True
+2025-09-10,410,Flores,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-09-16,Cobrado,6.0,False
+2025-06-06,411,Rivera,Préstamo Consumo,2104.0,R3,No Registrado,,Cobrado,,False
+2025-07-23,412,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-25,En Mora,2.0,True
+2025-08-11,413,Cerro Largo,Préstamo Consumo,2329.0,E2,No Registrado,,Cobrado,,False
+2025-10-24,414,Montevideo,Préstamo Consumo,2884.0,M1,No Registrado,,En Mora,,True
+2025-05-30,415,Rivera,Premier,0.0,Sin vendedor,Registrado,2025-06-04,Cobrado,5.0,False
+2025-08-29,416,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-01,417,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-07-10,418,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-03,419,Rivera,Préstamo Automotor,25135.0,R2,Registrado,2025-03-04,Cobrado,1.0,False
+2025-09-08,420,Flores,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-11-03,421,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-09,Cobrado,6.0,False
+2025-12-19,422,Tacuarembó,Préstamo Consumo,4213.0,T2,Registrado,2025-12-20,Cobrado,1.0,False
+2025-04-10,423,Montevideo,Préstamo Consumo,4959.0,M3,Registrado,2025-04-14,En Mora,4.0,True
+2025-01-10,424,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-01-15,Cobrado,5.0,False
+2025-01-24,425,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-01-28,Cobrado,4.0,False
+2025-11-25,426,Canelones,Préstamo Consumo,2387.0,C1,Registrado,2025-11-29,Cobrado,4.0,False
+2025-01-24,427,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-31,Cobrado,7.0,False
+2025-07-25,428,Flores,Préstamo Hipotecario,10180.0,F3,Registrado,2025-07-27,Cobrado,2.0,False
+2025-04-18,429,Canelones,Préstamo Consumo,4794.0,C2,No Registrado,,En Mora,,True
+2025-11-04,430,Colonia,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-05-21,431,Maldonado,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-02,432,Rocha,Préstamo Consumo,658.0,H2,No Registrado,,Cobrado,,False
+2025-08-12,433,Soriano,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-13,Cobrado,1.0,False
+2025-01-08,434,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-01-15,En Mora,7.0,True
+2025-03-31,435,Rivera,Préstamo Hipotecario,223986.0,R2,Registrado,2025-04-04,Cobrado,4.0,False
+2025-11-28,436,Durazno,Préstamo Consumo,1169.0,D3,No Registrado,,Cobrado,,False
+2025-12-10,437,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-06-27,438,San José,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-01-07,439,Colonia,Préstamo Consumo,2321.0,O3,Registrado,2025-01-13,Cobrado,6.0,False
+2025-04-23,440,Cerro Largo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-12-17,441,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-12-23,Cobrado,6.0,False
+2025-11-04,442,Montevideo,Préstamo Hipotecario,6315.0,M3,Registrado,2025-11-05,Incobrable,1.0,True
+2025-08-07,443,Rocha,Préstamo Automotor,21199.0,H1,Registrado,2025-08-09,Cobrado,2.0,False
+2025-09-19,444,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-11,445,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-06-12,Cobrado,1.0,False
+2025-04-14,446,Paysandú,Premier,0.0,Sin vendedor,Registrado,2025-04-17,Cobrado,3.0,False
+2025-02-14,447,Montevideo,Préstamo Automotor,3861.0,M2,Registrado,2025-02-19,Cobrado,5.0,False
+2025-08-13,448,Colonia,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-16,Cobrado,3.0,False
+2025-08-18,449,San José,Préstamo Consumo,794.0,J1,Registrado,2025-08-24,Cobrado,6.0,False
+2025-12-16,450,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-12-22,Cobrado,6.0,False
+2025-12-26,451,Rocha,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2026-01-02,Cobrado,7.0,False
+2025-12-09,452,Paysandú,Préstamo Consumo,4258.0,P3,No Registrado,,Cobrado,,False
+2025-12-04,453,Paysandú,Premier,0.0,Sin vendedor,Registrado,2025-12-08,En Mora,4.0,True
+2025-03-20,454,Paysandú,Préstamo Consumo,4666.0,P1,No Registrado,,Cobrado,,False
+2025-02-18,455,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-12-29,456,Tacuarembó,Préstamo Automotor,3691.0,T2,Registrado,2025-12-30,Cobrado,1.0,False
+2025-05-07,457,Paysandú,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Incobrable,,True
+2025-10-03,458,San José,Préstamo Consumo,2045.0,J1,Registrado,2025-10-09,Incobrable,6.0,True
+2025-02-25,459,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-03-02,Cobrado,5.0,False
+2025-03-14,460,Soriano,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-29,461,Canelones,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-05-06,Cobrado,7.0,False
+2025-09-10,462,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-26,463,Río Negro,Préstamo Consumo,717.0,N1,Registrado,2025-03-01,Cobrado,3.0,False
+2025-11-24,464,Paysandú,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-11-28,Incobrable,4.0,True
+2025-05-22,465,San José,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-03-05,466,Tacuarembó,Préstamo Consumo,1799.0,T2,Registrado,2025-03-06,Incobrable,1.0,True
+2025-02-14,467,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-02-20,En Mora,6.0,True
+2025-07-09,468,Rivera,Préstamo Consumo,2635.0,R2,No Registrado,,En Mora,,True
+2025-05-22,469,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-25,Incobrable,3.0,True
+2025-01-09,470,Artigas,Préstamo Consumo,1733.0,I1,No Registrado,,Cobrado,,False
+2025-07-24,471,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-29,Cobrado,5.0,False
+2025-03-03,472,Rivera,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-03-04,Cobrado,1.0,False
+2025-11-28,473,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-01-24,474,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-01-31,Cobrado,7.0,False
+2025-02-11,475,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-06-11,476,Rocha,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-06-17,Cobrado,6.0,False
+2025-07-09,477,Canelones,Préstamo Consumo,579.0,C2,No Registrado,,Cobrado,,False
+2025-05-01,478,Rivera,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-09-17,479,Canelones,Préstamo Automotor,20462.0,C2,Registrado,2025-09-24,Cobrado,7.0,False
+2025-11-26,480,Canelones,Préstamo Consumo,2683.0,C1,Registrado,2025-11-27,En Mora,1.0,True
+2025-12-19,481,Durazno,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-05,482,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-21,483,Treinta y Tres,Préstamo Consumo,4283.0,Y1,No Registrado,,Cobrado,,False
+2025-08-28,484,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-09-25,485,Montevideo,Préstamo Hipotecario,123283.0,M3,Registrado,2025-10-01,Cobrado,6.0,False
+2025-11-11,486,Treinta y Tres,Préstamo Consumo,3295.0,Y3,Registrado,2025-11-17,Cobrado,6.0,False
+2025-08-25,487,Florida,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-08-27,Incobrable,2.0,True
+2025-12-22,488,Montevideo,Préstamo Consumo,4985.0,M1,No Registrado,,Cobrado,,False
+2025-01-08,489,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-08-12,490,Rocha,Premier,0.0,Sin vendedor,Registrado,2025-08-18,En Mora,6.0,True
+2025-07-17,491,Florida,Préstamo Hipotecario,197238.0,L2,Registrado,2025-07-21,Cobrado,4.0,False
+2025-10-30,492,Canelones,Préstamo Automotor,12245.0,C2,Registrado,2025-10-31,Cobrado,1.0,False
+2025-09-23,493,Treinta y Tres,Préstamo Consumo,4717.0,Y2,No Registrado,,Cobrado,,False
+2025-07-21,494,Treinta y Tres,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-07-22,En Mora,1.0,True
+2025-01-10,495,Paysandú,Préstamo Consumo,4037.0,P2,Registrado,2025-01-11,Cobrado,1.0,False
+2025-12-05,496,Montevideo,Préstamo Automotor,10290.0,M2,Registrado,2025-12-10,En Mora,5.0,True
+2025-12-16,497,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-09-03,498,Canelones,Préstamo Consumo,4390.0,C2,No Registrado,,En Mora,,True
+2025-12-09,499,Maldonado,Préstamo Consumo,931.0,A2,No Registrado,,Cobrado,,False
+2025-04-22,500,Colonia,Premier,0.0,Sin vendedor,Registrado,2025-04-27,Cobrado,5.0,False
+2025-09-05,501,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-20,502,Montevideo,Préstamo Automotor,21272.0,M1,Registrado,2025-10-23,Incobrable,3.0,True
+2025-11-17,503,Montevideo,Préstamo Automotor,3673.0,M1,Registrado,2025-11-24,Cobrado,7.0,False
+2025-05-26,504,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-29,Cobrado,3.0,False
+2025-05-01,505,Lavalleja,Préstamo Consumo,2329.0,V2,Registrado,2025-05-07,Cobrado,6.0,False
+2025-09-15,506,Colonia,Préstamo Consumo,2789.0,O1,Registrado,2025-09-22,Incobrable,7.0,True
+2025-12-01,507,Colonia,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-28,508,Flores,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-03-06,Cobrado,6.0,False
+2025-10-15,509,Durazno,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-10-13,510,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-10-20,Cobrado,7.0,False
+2025-07-09,511,Montevideo,Préstamo Consumo,4007.0,M2,No Registrado,,Cobrado,,False
+2025-11-10,512,Durazno,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-11-12,Cobrado,2.0,False
+2025-03-24,513,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-03-31,Cobrado,7.0,False
+2025-08-25,514,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-08-26,Incobrable,1.0,True
+2025-12-26,515,Florida,Préstamo Automotor,19796.0,L3,No Registrado,,En Mora,,True
+2025-05-14,516,Canelones,Préstamo Consumo,3189.0,C2,Registrado,2025-05-21,Incobrable,7.0,True
+2025-09-29,517,Montevideo,Préstamo Consumo,2721.0,M1,Registrado,2025-10-03,Incobrable,4.0,True
+2025-08-05,518,Cerro Largo,Préstamo Consumo,2853.0,E2,No Registrado,,Cobrado,,False
+2025-08-04,519,Cerro Largo,Préstamo Consumo,2575.0,E3,No Registrado,,Cobrado,,False
+2025-11-07,520,Canelones,Préstamo Hipotecario,169639.0,C3,Registrado,2025-11-09,En Mora,2.0,True
+2025-08-22,521,Montevideo,Préstamo Hipotecario,17683.0,M2,Registrado,2025-08-24,Incobrable,2.0,True
+2025-01-01,522,Flores,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-01-08,Cobrado,7.0,False
+2025-10-08,523,Rivera,Préstamo Automotor,19229.0,R3,Registrado,2025-10-09,En Mora,1.0,True
+2025-05-28,524,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-06-04,Cobrado,7.0,False
+2025-02-11,525,San José,Préstamo Consumo,3435.0,J3,No Registrado,,Cobrado,,False
+2025-04-04,526,San José,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-07,Cobrado,3.0,False
+2025-04-23,527,Canelones,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-04-28,En Mora,5.0,True
+2025-11-11,528,Montevideo,Préstamo Consumo,3826.0,M1,No Registrado,,Cobrado,,False
+2025-05-22,529,Durazno,Préstamo Consumo,3164.0,D2,No Registrado,,Cobrado,,False
+2025-09-03,530,Río Negro,Préstamo Consumo,569.0,N2,No Registrado,,Cobrado,,False
+2025-02-07,531,Rocha,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-02-13,Cobrado,6.0,False
+2025-11-24,532,Rivera,Préstamo Consumo,2859.0,R1,Registrado,2025-11-30,En Mora,6.0,True
+2025-11-03,533,Rocha,Préstamo Automotor,8091.0,H1,Registrado,2025-11-08,En Mora,5.0,True
+2025-04-24,534,Maldonado,Préstamo Hipotecario,292075.0,A3,Registrado,2025-04-29,Cobrado,5.0,False
+2025-11-26,535,Rocha,Préstamo Automotor,18724.0,H2,Registrado,2025-12-03,Cobrado,7.0,False
+2025-05-29,536,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-17,537,Montevideo,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-02-21,538,Canelones,Préstamo Hipotecario,97393.0,C2,No Registrado,,Cobrado,,False
+2025-11-04,539,Maldonado,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,Cobrado,,False
+2025-04-04,540,Tacuarembó,Préstamo Consumo,3014.0,T3,Registrado,2025-04-06,En Mora,2.0,True
+2025-03-31,541,Montevideo,Premier,0.0,Sin vendedor,Registrado,2025-04-01,Cobrado,1.0,False
+2025-02-19,542,Río Negro,Préstamo Consumo,1966.0,N2,No Registrado,,Cobrado,,False
+2025-08-27,543,Salto,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-04-30,544,Montevideo,Préstamo Consumo,2759.0,M2,No Registrado,,Cobrado,,False
+2025-08-15,545,Montevideo,Préstamo Consumo,1538.0,M2,Registrado,2025-08-17,Cobrado,2.0,False
+2025-10-24,546,Montevideo,Tarjeta de Crédito,0.0,Sin vendedor,Registrado,2025-10-31,Cobrado,7.0,False
+2025-11-13,547,Montevideo,Préstamo Consumo,2440.0,M2,No Registrado,,Cobrado,,False
+2025-05-12,548,Artigas,Cuenta Sueldo,0.0,Sin vendedor,Registrado,2025-05-18,Cobrado,6.0,False
+2025-10-24,549,Canelones,Cuenta Sueldo,0.0,Sin vendedor,No Registrado,,En Mora,,True
+2025-09-02,550,Rivera,Premier,0.0,Sin vendedor,Registrado,2025-09-09,Cobrado,7.0,False
